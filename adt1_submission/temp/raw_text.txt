@@ -1,0 +1,203 @@
+Page 1 of 3
+  (b)  Global location number (GLN) of company
+1.(a) *Corporate identity number (CIN) of company
+2.(a)  Name of the company
+(b) Address of the registered office  
+      of  the company
+[Pursuant to section 139 of the Companies Act, 
+2013 and Rule 4(2) of the Companies  
+(Audit and Auditors) Rules, 2014]
+FORM NO. ADT-1
+Notice to the Registrar by 
+company for appointment of 
+auditor
+Refer the instruction kit for filing the form.
+Form language
+(c)   email id of the company
+English
+Hindi
+*
+3.(a)   Whether company is falling under any class of companies as per section 139(2)   
+Yes
+No
+4.   Whether joint auditors have been appointed
+Yes
+No
+Number of auditor(s) appointed
+*
+*
+*
+(b)   Nature of appointment    
+*
+(b) *Income Tax permanent account number of auditor or auditor's firm
+I. (a) *Category of Auditor
+(c) *Name of the auditor or auditor's firm
+Individual
+Auditor's Firm
+(d) *Membership Number of auditor or auditor's firm's registration number
+(e) *Address of the Auditor                    Line I 
+        or auditor's firm
+                                                         Line II
+*City
+*State
+ Country
+*Pin code
+*email id of the auditor  
+  or auditor's firm
+(f)    Period of account for which appointed
+   From
+   To
+(DD/MM/YYYY)
+(DD/MM/YYYY)
+(g)   Number of financial year(s) to which appointment relates
+(h)   Whether the appointment of auditor is within the limits of twenty companies as specified  
+        in sub section 3(g) of section 141
+Yes
+No
+*
+*
+*
+Pre-fill
+U74999KA2016PTC095981
+ALUPA FOODS PRIVATE LIMITED
+DHANYALAXMI RICE MILL, 
+5-110A, PUTTUR, 
+UDUPI 
+Udupi 
+Karnataka 
+576105
+mail@alupafoods.in
+1
+Appointment/Re-appointment in AGM
+AABFM8893Q
+MALLYA & MALLYA
+001955S
+29/2, 1st Floor, Parijatha Complex
+Race Course Road
+Bangalore
+Karnataka-KA
+IN
+560001
+mallyaandmallya@gmail.com
+01/04/2022
+31/03/2027
+5
+Page 2 of 3
+(i) Specify the tenure of previous appointment(s) of the auditor or auditor's firm or its member in the same company in  
+     which audit was conducted or is functioning (excluding previous years having break of five or more years as specified   
+     in Rule 6)
+Number of financial year(s)
+*
+S.no.
+Person appointed as auditor
+Financial year 
+Start date
+Financial year 
+End date
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+6
+Auditor's  Firm
+31/03/2017
+Auditor's  Firm
+31/03/2018
+Auditor's  Firm
+31/03/2019
+Auditor's  Firm
+31/03/2020
+Auditor's  Firm
+31/03/2021
+Auditor's  Firm
+31/03/2022
+24/08/2016
+01/04/2017
+01/04/2018
+01/04/2019
+01/04/2020
+01/04/2021
+Page 3 of 3
+    (b) If  yes, date of AGM
+(DD/MM/YYYY)
+5. (a) *Whether auditor(s)  has been appointed in the annual general meeting (AGM)
+6. *Date of appointment 
+(DD/MM/YYYY)
+Yes
+No
+Attachments 
+  
+1.  Copy of the intimation sent by company 
+  
+2. *Copy of written consent given by auditor  
+ 
+6.  Optional attachment(s) - if any
+                    List of Attachments
+3. *Copy of resolution passed by the board/company
+Declaration
+I am authorized by the Board of Directors of the Company vide resolution number *                           dated *                
+to sign this form and declare that all the requirements of Companies Act, 2013 and the rules made thereunder in respect of the 
+subject matter of this form and matters incidental thereto have been complied with. I also declare that all the information given 
+herein above is true, correct and complete including the attachments to this form and nothing material has been suppressed.
+Director identification number of the director; or DIN or 
+PAN of the Manager/CEO/CFO; or Membership number of 
+the Company Secretary
+Designation
+*
+*
+To be digitally signed by
+This eForm has been taken on file maintained by the registrar of companies through electronic mode and on the basis of 
+statement of correctness given by the company.
+7.   (a)   Whether auditor is appointed due to casual vacancy in the office of auditor
+Yes
+No
+(b)   Specify the SRN of relevant form
+(d)   Mention the membership number of auditor or Registration number of auditor's firm     
+        who has vacated the office
+(e)   Mention the date of such vacancy 
+(f)    Reasons of the casual vacancy
+(c)   Person vacated the office
+Individual
+Auditor's firm
+*
+*
+*
+*
+*
+*
+*
+Note: Attention is also drawn to provisions of Section 448 of the Companies Act which provide for punishment for false 
+statement.
+4.  Copy of the letter of appointment from C&AG
+26/09/2022
+26/09/2022
+Attach
+Remove attachment
+Consent signed.pdf
+Resolution for appointment of Auditor Signed
+Intimation Letter Signed.pdf
+Acceptance signed.pdf
+Attach
+007
+29/08/2022
+07579495
+Director
+Submit
+Prescrutiny
+Check Form
+Modify
+Attach
+Attach
+Krishna 
+Kumar Rao
+Digitally signed by 
+Krishna Kumar Rao 
+Date: 2022.11.23 
+18:01:53 +05'30'
+Attach

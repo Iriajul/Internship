@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymupdf
+requests
+python-dotenv
+pydantic
+opencv-python
+numpy
+pdf2image
+pytesseract
