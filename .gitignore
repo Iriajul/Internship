@@ -1,0 +1,4 @@
+# Copyrighted audio/video for the reel project stays local
+reel/*.mp3
+reel/*.wav
+reel/*.mp4
