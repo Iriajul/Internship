@@ -2,3 +2,8 @@
 reel/*.mp3
 reel/*.wav
 reel/*.mp4
+
+# Local secrets (Higgsfield HF_KEY etc.) — never commit
+.env
+.env.local
+.env.*.local
